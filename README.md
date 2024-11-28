@@ -9,9 +9,9 @@ I'm currently in my third year of a B.Sc. in Software and Information Systems En
 ## 🌱 What I'm Learning
 
 - Advanced algorithms and data structures
+- Advancing my knowledge in Machine Learning and Artificial Intelligence
 - Software system analysis and design
-- Object-oriented programming principles
-- Exploring fields like AI and database management
+- Object-oriented programming principles 
 
 ## 🚀 Projects
 
