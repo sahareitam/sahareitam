@@ -43,7 +43,7 @@ I am eager to further explore areas such as **data science**, **machine learning
 - Software System Analysis and Design  
 
 ### **Tools & Platforms**  
-- Git, Docker, Kubernetes, Linux  
+- Git, Linux  
 
 ---
 
@@ -62,7 +62,7 @@ I am eager to further explore areas such as **data science**, **machine learning
 ### **Combat Soldier and Commander (Sayeret Givati Unit)**  
 - Planned and executed complex operational missions.  
 - Commanded a team of soldiers, emphasizing **leadership**, **teamwork**, and **responsibility**.  
-- Successfully balanced challenging combat duties during reserve service in Gaza with achieving academic excellence.
+- Successfully balanced challenging combat duties during reserve service in Gaza with achieving strong academic performance.
 
 ---
 
@@ -77,7 +77,7 @@ I am eager to further explore areas such as **data science**, **machine learning
 
 ## 📈 Achievements  
 - **Achieving a GPA of 91.6 in the last semester.**  
-- Demonstrated the ability to maintain **academic excellence** while serving in operational reserves in Gaza.  
+- Demonstrated the ability to maintain **strong academic performance** while serving in operational reserves in Gaza.  
 
 ---
 
@@ -97,4 +97,4 @@ I’m always open to professional discussions, collaborations, or exploring inno
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Java](https:/
