@@ -43,7 +43,8 @@ I’m a third-year **Software and Information Systems Engineering** student at *
 ---
 
 ## 🌍 Beyond Code  
-👨‍🏫 When I’m not coding, I’m tutoring math, mentoring youth, or catching waves in the world of **kite surfing**. Oh, and if you’re into tech-meets-medicine ideas, let’s talk!  
+🏄‍♂️ When I’m not coding, you’ll find me riding waves, snowboarding, or soaking up the sun at the beach. Always open to exciting collaborations and innovative ideas!
+
 
 ---
 
