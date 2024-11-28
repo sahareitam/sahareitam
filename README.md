@@ -1,76 +1,62 @@
 # Hi 👋, I'm Sahar Eitam  
-A dedicated Software and Information Systems Engineering student from Ben-Gurion University.  
+A passionate Software and Information Systems Engineering student from Ben-Gurion University.  
 **sahareitam**
 
 ---
 
 ## 🙋‍♂️ About Me  
-I'm a third-year Software and Information Systems Engineering student at Ben-Gurion University with a passion for leveraging cutting-edge technologies to drive innovation and solve complex problems. I am eager to learn new aspects of the field and currently seeking a student position in software development or related fields.
+I'm a third-year Software and Information Systems Engineering student at Ben-Gurion University with a deep interest in software development, data science, and machine learning. I am passionate about solving complex problems and exploring innovative technologies to drive impactful solutions.
 
 ---
 
-## 🌱 Education  
-### **B.Sc in Software and Information Systems Engineering**  
-- **Institution**: Ben-Gurion University  
-- **GPA**: 86.6 (Last semester: 91.6)  
-- **Related Courses**:  
-  - Data Structures (95)  
-  - Algorithms  
-  - Operating Systems (95)  
-  - Object-Oriented Programming (94)  
-  - Databases  
-  - Analysis and Design of Software Systems (88)  
+## 🌱 What I'm Learning  
+- **Advancing my skills** in Data Structures and Algorithms.  
+- Exploring Machine Learning and Artificial Intelligence.  
+- Diving deeper into System Design and Operating Systems concepts.  
+- Strengthening expertise in Object-Oriented Programming and Distributed Systems.
 
 ---
 
-## 🚀 Skills  
-- **Programming Languages**: Python, Java, C, C++, C#, Bash, PostgreSQL, Assembly  
-- **Fields of Knowledge**:  
-  - Data Structures  
-  - Algorithms  
-  - Operating Systems  
-  - Object-Oriented Programming  
-  - Databases  
-  - Software Analysis and Design  
-  - Linux  
-  - Git  
-
----
-
-## 🌟 Projects  
-
-### **Wedding Seating Arrangements App**  
-An app designed to streamline event table arrangements by identifying and grouping related people for optimal seating based on compatibility. Combines graph theory and practical social algorithms.  
+## 🚀 Projects  
 
 ### **CPU Scheduling Simulator**  
-Simulates various CPU scheduling techniques, demonstrating an understanding of process scheduling and low-level programming concepts.  
+Simulated CPU scheduling techniques as part of an Operating Systems course. This project demonstrates an understanding of process scheduling and system-level programming concepts.
+
+### **Wedding Seating Arrangements App**  
+Developed an app that optimizes table arrangements for events by analyzing social connections. Combines algorithms, graph theory, and practical problem-solving.
 
 ### **Thread-Safe Data Structures**  
-Developed thread-safe binary trees and sharable spreadsheet simulators using C#, focusing on concurrency and synchronization techniques.  
+Designed a thread-safe binary tree and sharable spreadsheet in C#. Focused on concurrency control, synchronization, and performance optimization.
 
-### **Mathematics Tutoring System**  
-A project inspired by volunteer work, designed to assist high school students struggling with advanced mathematics concepts, using Python and database integration.  
+### **Custom Mathematics Tutoring Platform**  
+Built a Python-based platform inspired by volunteer work, aimed at assisting high school students in advanced mathematics with intuitive tools and tutorials.
+
+---
+
+## 🔧 Skills  
+- **Programming Languages**: Python, Java, C, C++, C#, Bash, PostgreSQL, Assembly.  
+- **Fields of Knowledge**: Data Structures, Algorithms, Operating Systems, Databases, Git, Linux.  
+- **Tools**: Visual Studio, PyCharm, Docker, Linux.
 
 ---
 
 ## 🌍 Volunteering  
 - **Mathematics Tutor**, *Perach Mathematics Project* (2022–2023):  
-  Tutored small groups of high school students in advanced mathematics (5 units), helping them achieve academic success.  
-
+  Tutored high school students struggling in advanced mathematics (5 units), helping them excel academically.  
 - **Volunteer**, *Community Anchor Youth Village*:  
-  Assisted at-risk youth in therapeutic and enrichment programs, fostering personal growth and resilience.  
+  Assisted at-risk youth in therapeutic programs and activities, fostering growth and resilience.
 
 ---
 
 ## 📫 How to Reach Me  
 - **Email**: sahar283@gmail.com  
 - **Phone**: +972-52-7245733  
-- **LinkedIn**: [linkedin.com/in/sahar-eitam](https://linkedin.com/in/sahar-eitam-73b732228)  
+- **LinkedIn**: [linkedin.com/in/sahar-eitam](https://linkedin.com/in/sahar-eitam-73b732228)
 
 ---
 
 ## 👥 Connect with Me  
-I'm open to collaboration opportunities and professional discussions in software development, data science, and machine learning. Let's connect and create something amazing together!
+I'm open to professional discussions and collaborations in software development, machine learning, and system engineering. Feel free to connect with me!
 
 ---
 
