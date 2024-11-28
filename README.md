@@ -1,70 +1,30 @@
-# Hi 👋, I'm Sahar Eitam  
-A passionate Software and Information Systems Engineering student from Ben-Gurion University.  
-**sahareitam**
+👋 Hi, I'm Sahar Eitam
+A passionate Software and Information Systems Engineering student at Ben-Gurion University.
 
----
+🙋‍♂️ About Me
+I'm currently in my third year of a B.Sc. in Software and Information Systems Engineering, exploring advanced software development, system design, and problem-solving strategies. I'm enthusiastic about leveraging cutting-edge technologies and creative approaches to tackle real-world challenges.
 
-## 🙋‍♂️ About Me  
-I'm a third-year Software and Information Systems Engineering student at Ben-Gurion University with a deep interest in software development, data science, and machine learning. I am passionate about solving complex problems and exploring innovative technologies to drive impactful solutions.
+🌱 What I'm Learning
+Advanced algorithms and data structures
+Software system analysis and design
+Object-oriented programming principles
+Exploring fields like AI and database management
+🚀 Projects
+Here are some of the projects that demonstrate my skills and interests:
 
----
+Database Management System: Developed a PostgreSQL-based project focused on efficient query processing and natural joins. This project emphasizes my understanding of relational databases and query optimization.
 
-## 🌱 What I'm Learning  
-- **Advancing my skills** in Data Structures and Algorithms.  
-- Exploring Machine Learning and Artificial Intelligence.  
-- Diving deeper into System Design and Operating Systems concepts.  
-- Strengthening expertise in Object-Oriented Programming and Distributed Systems.
+Operating System Simulation: Designed a simulation of basic OS operations, showcasing proficiency in multi-threading, scheduling algorithms, and memory management.
 
----
+Object-Oriented Application: Created a C# application utilizing advanced OOP techniques to manage and visualize system data. The project highlights my expertise in building scalable and maintainable software solutions.
 
-## 🚀 Projects  
+Analysis Tool for Algorithms: Implemented a Python-based tool for analyzing algorithm efficiency. This project demonstrates my strong foundation in algorithm design and computational complexity.
 
-### **CPU Scheduling Simulator**  
-Simulated CPU scheduling techniques as part of an Operating Systems course. This project demonstrates an understanding of process scheduling and system-level programming concepts.
+Feel free to explore these projects in my repositories for more details!
 
-### **Wedding Seating Arrangements App**  
-Developed an app that optimizes table arrangements for events by analyzing social connections. Combines algorithms, graph theory, and practical problem-solving.
-
-### **Thread-Safe Data Structures**  
-Designed a thread-safe binary tree and sharable spreadsheet in C#. Focused on concurrency control, synchronization, and performance optimization.
-
-### **Custom Mathematics Tutoring Platform**  
-Built a Python-based platform inspired by volunteer work, aimed at assisting high school students in advanced mathematics with intuitive tools and tutorials.
-
----
-
-## 🔧 Skills  
-- **Programming Languages**: Python, Java, C, C++, C#, Bash, PostgreSQL, Assembly.  
-- **Fields of Knowledge**: Data Structures, Algorithms, Operating Systems, Databases, Git, Linux.  
-- **Tools**: Visual Studio, PyCharm, Docker, Linux.
-
----
-
-## 🌍 Volunteering  
-- **Mathematics Tutor**, *Perach Mathematics Project* (2022–2023):  
-  Tutored high school students struggling in advanced mathematics (5 units), helping them excel academically.  
-- **Volunteer**, *Community Anchor Youth Village*:  
-  Assisted at-risk youth in therapeutic programs and activities, fostering growth and resilience.
-
----
-
-## 📫 How to Reach Me  
-- **Email**: sahar283@gmail.com  
-- **Phone**: +972-52-7245733  
-- **LinkedIn**: [linkedin.com/in/sahar-eitam](https://linkedin.com/in/sahar-eitam-73b732228)
-
----
-
-## 👥 Connect with Me  
-I'm open to professional discussions and collaborations in software development, machine learning, and system engineering. Feel free to connect with me!
-
----
-
-### Connect with me:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+🔧 Languages and Tools
+Programming Languages: Python, Java, C, C++, C#, Bash, PostgreSQL
+Frameworks and Tools: Git, Linux, VSCode
+📫 How to Reach Me
+Email: sahar283@gmail.com
+LinkedIn: linkedin.com/in/sahar-eitam-73b732228
