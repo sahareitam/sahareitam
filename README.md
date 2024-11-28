@@ -1,38 +1,100 @@
-# 👋 Hi, I'm Sahar Eitam
+# Hi 👋, I'm Sahar Eitam  
 
-A passionate Software and Information Systems Engineering student at Ben-Gurion University.
+### **Software and Information Systems Engineering Student | Passionate Innovator**  
 
-## 🙋‍♂️ About Me
+---
 
-I'm currently in my third year of a B.Sc. in Software and Information Systems Engineering, exploring advanced software development, system design, and problem-solving strategies. I'm enthusiastic about leveraging cutting-edge technologies and creative approaches to tackle real-world challenges. 
+## 🙋‍♂️ About Me  
+I’m a third-year Software and Information Systems Engineering student at Ben-Gurion University with a passion for leveraging cutting-edge technologies to solve complex challenges. My academic journey, military service, and volunteering experiences have shaped me into a problem-solver who thrives in dynamic, team-oriented environments.
 
-## 🌱 What I'm Learning
+I am eager to further explore areas such as **data science**, **machine learning**, and the integration of **medicine and computer science** to create impactful, real-world solutions.
 
-- Advanced algorithms and data structures
-- Advancing my knowledge in Machine Learning and Artificial Intelligence
-- Software system analysis and design
-- Object-oriented programming principles 
+---
 
-## 🚀 Projects
+## 🎓 Education  
+### **B.Sc in Software & Information Systems Engineering**  
+**Ben-Gurion University (2022 – Present)**  
+- GPA: **86.6** | Last Semester GPA: **91.6**  
+- Relevant Coursework:  
+  - **Operating Systems** (Grade: 95)  
+  - **Object-Oriented Programming** (Grade: 94)  
+  - **Analysis and Design of Software Systems** (Grade: 88)  
+  - **Data Structures and Algorithms**  
+  - **Databases**  
+  - **Computational Models**
 
-Here are some of the projects that demonstrate my skills and interests:
+### **Full Matriculation Diploma**  
+**Carmel Zvulun High School, Yagur (2009 – 2015)**  
+- 5 units in Mathematics (Grade: 99), English, and Geography.  
+- Member of the Excellence Track.
 
-- **Database Management System**: Developed a PostgreSQL-based project focused on efficient query processing and natural joins. This project emphasizes my understanding of relational databases and query optimization.
+---
 
-- **Operating System Simulation**: Designed a simulation of basic OS operations, showcasing proficiency in multi-threading, scheduling algorithms, and memory management. 
+## 🛠 Skills  
+### **Programming Languages**  
+- **Proficient**: Python, Java, C, C++, C#, Bash  
+- **Additional**: PostgreSQL, Assembly  
 
-- **Object-Oriented Application**: Created a C# application utilizing advanced OOP techniques to manage and visualize system data. The project highlights my expertise in building scalable and maintainable software solutions.
+### **Fields of Expertise**  
+- Data Structures and Algorithms  
+- Operating Systems and Multithreading  
+- Object-Oriented Programming  
+- Databases and SQL  
+- Software System Analysis and Design  
 
-- **Analysis Tool for Algorithms**: Implemented a Python-based tool for analyzing algorithm efficiency. This project demonstrates my strong foundation in algorithm design and computational complexity.
+### **Tools & Platforms**  
+- Git, Docker, Kubernetes, Linux  
 
-Feel free to explore these projects in my repositories for more details!
+---
 
-## 🔧 Languages and Tools
+## 🚀 Key Projects  
 
-- **Programming Languages**: Python, Java, C, C++, C#, Bash, PostgreSQL
-- **Frameworks and Tools**: Git, Linux, VSCode
+### **MazeGame**  
+- A Java-based project designed to generate, solve, and analyze mazes.  
+- Implements advanced algorithms like **DFS**, **BFS**, and **Best-First Search** for maze generation and solving.  
+- Utilizes **client-server architecture** for remote interactions and includes **compression/decompression** capabilities for efficient storage and transmission.  
 
-## 📫 How to Reach Me
+[More Details](#)
 
-- Email: [sahar283@gmail.com](mailto:sahar283@gmail.com)
-- LinkedIn: [linkedin.com/in/sahar-eitam-73b732228](https://linkedin.com/in/sahar-eitam-73b732228)
+---
+
+## 🪖 Military Service  
+### **Combat Soldier and Commander (Sayeret Givati Unit)**  
+- Planned and executed complex operational missions.  
+- Commanded a team of soldiers, emphasizing **leadership**, **teamwork**, and **responsibility**.  
+- Successfully balanced challenging combat duties during reserve service in Gaza with achieving academic excellence.
+
+---
+
+## 🤝 Volunteering  
+### **Mathematics Tutor (Perach Project)**  
+- Tutored high school students struggling with 5-unit mathematics, fostering understanding and confidence.  
+
+### **Youth Mentor (Community Anchor Youth Village)**  
+- Assisted at-risk youth aged 12–18 through therapeutic programs and enrichment activities.
+
+---
+
+## 📈 Achievements  
+- **Achieving a GPA of 91.6 in the last semester.**  
+- Demonstrated the ability to maintain **academic excellence** while serving in operational reserves in Gaza.  
+
+---
+
+## 📫 How to Reach Me  
+- **Email**: sahar283@gmail.com  
+- **LinkedIn**: [linkedin.com/in/sahareitam](https://linkedin.com/in/sahareitam)
+
+---
+
+## 👥 Let’s Connect!  
+I’m always open to professional discussions, collaborations, or exploring innovative projects in **software engineering**, **data science**, and **machine learning**. Feel free to reach out!
+
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
