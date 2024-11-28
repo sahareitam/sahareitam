@@ -83,7 +83,7 @@ I am eager to further explore areas such as **data science**, **machine learning
 
 ## 📫 How to Reach Me  
 - **Email**: sahar283@gmail.com  
-- **LinkedIn**: [linkedin.com/in/sahareitam](https://linkedin.com/in/sahareitam)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/sahar-eitam-73b732228)
 
 ---
 
