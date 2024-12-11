@@ -12,13 +12,6 @@ I'm a third-year **Software and Information Systems Engineering** student at **B
 
 ---
 
-## 👨‍💻 What You'll Find Here  
-- 🚧 **Projects**: From maze-solving adventures to keyboard layout fixes.
-- 💡 **Ideas**: Exploring creative ways to make technology work for people.  
-- 🌱 **Growth**: Always learning, always improving.
-
----
-
 ## 🛠 Skills & Tools  
 ### **Languages I Speak (Code, of course):**  
 - 🐍 Python  
@@ -33,15 +26,9 @@ I'm a third-year **Software and Information Systems Engineering** student at **B
   
 ---
 
-## 🌟 Featured Projects
+## 🌟 Personal Project
 
-### 🎮 MazeGame
-A Java-powered maze generator, solver, and analyzer:  
-- Implements algorithms like **DFS**, **BFS**, and **Best-First Search**
-- Features **client-server architecture** for remote gameplay
-- Includes compression for efficient storage
-
-### ⌨️ Keyboard Layout Fixer
+  ### ⌨️ Chrome Keyboard Fixer
 A Chrome extension that fixes text typed with wrong keyboard layout:
 - Instant Hebrew-English keyboard layout conversion
 - Works seamlessly with any text input on any website
